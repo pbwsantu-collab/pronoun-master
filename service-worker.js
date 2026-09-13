@@ -1,4 +1,4 @@
-const CACHE_NAME = 'pronoun-master-v2';
+const CACHE_NAME = 'pronoun-master-v3';
 const urlsToCache = [
   './',
   './index.html',
