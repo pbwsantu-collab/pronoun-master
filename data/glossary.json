@@ -1,0 +1,20 @@
+{
+  "terms": [
+    {"term": "Antecedent", "bn": "পূর্ববর্তী noun/pronoun যার দিকে relative pronoun ইঙ্গিত করে", "en": "The word to which a relative pronoun refers"},
+    {"term": "Nominative", "bn": "কর্তৃকারক — subject form (I, he, she, we, they)", "en": "Subject case of a pronoun"},
+    {"term": "Objective", "bn": "কর্মকারক — object form (me, him, her, us, them)", "en": "Object case of a pronoun"},
+    {"term": "Possessive Adjective", "bn": "Noun-এর আগে বসে (my, your, his, her, its, our, their)", "en": "Possessive form used before a noun"},
+    {"term": "Possessive Pronoun", "bn": "একা বসে (mine, yours, his, hers, ours, theirs)", "en": "Possessive form used alone"},
+    {"term": "Reflexive Pronoun", "bn": "কর্তা নিজেই কর্ম (myself, yourself, himself…)", "en": "Pronoun referring back to the subject as object"},
+    {"term": "Emphatic Pronoun", "bn": "জোর দেওয়ার জন্য (I myself…)", "en": "Pronoun used for emphasis"},
+    {"term": "Relative Pronoun", "bn": "দুটি বাক্য যোগ করে (who, which, that, what, as, but)", "en": "Pronoun that joins clauses and refers to an antecedent"},
+    {"term": "Restrictive Relative", "bn": "Antecedent-কে সীমাবদ্ধ করে (সাধারণত comma নেই)", "en": "Relative that defines/limits the antecedent"},
+    {"term": "Continuative Relative", "bn": "অতিরিক্ত তথ্য দেয় (সাধারণত comma থাকে)", "en": "Relative that adds extra information"},
+    {"term": "Distributive Pronoun", "bn": "দল থেকে একজনকে আলাদা করে (each, either, neither)", "en": "Pronoun that separates one from a group"},
+    {"term": "Indefinite Pronoun", "bn": "সাধারণভাবে ব্যক্তি/বস্তু বোঝায় (one, any, some, none…)", "en": "Pronoun referring to persons/things generally"},
+    {"term": "Reciprocal Pronoun", "bn": "পারস্পরিক সম্পর্ক (each other, one another)", "en": "Pronoun expressing mutual action"},
+    {"term": "Demonstrative Pronoun", "bn": "নির্দেশ করে (this, that, these, those, such, so)", "en": "Pronoun that points out"},
+    {"term": "Interrogative Pronoun", "bn": "প্রশ্ন করে (who, which, what)", "en": "Pronoun used to ask questions"},
+    {"term": "Double Possessive", "bn": "দুবার possessive রূপ (hers, ours, theirs)", "en": "Forms with two possessive endings"}
+  ]
+}
